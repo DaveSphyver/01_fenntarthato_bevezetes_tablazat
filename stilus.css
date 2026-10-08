@@ -39,6 +39,27 @@ tr:nth-child(even){
 }
 tr {
     background-color: white;
-}#also {
+}
+#also {
     text-align: right;
+}
+nav {
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+}
+#egy {
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size:larger;
+    text-transform: uppercase;
+    color:#145c4e;
+}
+#ketto {
+    color: #145c4e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    font-size: larger;
+
 }
